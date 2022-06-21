@@ -1,0 +1,17 @@
+$primary-color: #ffd700;
+
+@import 'animate.css';
+
+@font-face {
+  font-family: 'RuneScape';
+  src: url("./assets/fonts/RuneScape-Chat-Bold-07.ttf") format('truetype');
+}
+
+input,
+textarea {
+  font-family: RuneScape;
+}
+
+
+  
+
