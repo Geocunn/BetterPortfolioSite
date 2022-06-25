@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BetterPortfolioSite/static/css/main.066f71ad.css",
+    "main.js": "/BetterPortfolioSite/static/js/main.74a300de.js",
+    "static/media/osrsLogo.png": "/BetterPortfolioSite/static/media/osrsLogo.76219844f16438c30ff4.png",
+    "static/media/RuneScape-Chat-Bold-07.ttf": "/BetterPortfolioSite/static/media/RuneScape-Chat-Bold-07.8312160100eedb12bf64.ttf",
+    "index.html": "/BetterPortfolioSite/index.html",
+    "main.066f71ad.css.map": "/BetterPortfolioSite/static/css/main.066f71ad.css.map",
+    "main.74a300de.js.map": "/BetterPortfolioSite/static/js/main.74a300de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066f71ad.css",
+    "static/js/main.74a300de.js"
+  ]
+}
