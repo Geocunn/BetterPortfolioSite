@@ -1,7 +1,7 @@
 {
-  "name": "geocunnPortfolio",
+  "name": "BetterPortfolioSite",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -50,5 +50,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "geocunn.co.uk"
+  "homepage": "http://geocunn.github.io/BetterPortfolioSite"
 }
