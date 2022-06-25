@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c544c03f.css",
-    "main.js": "/static/js/main.16839d0b.js",
-    "static/media/RuneScape-Chat-Bold-07.ttf": "/static/media/RuneScape-Chat-Bold-07.8312160100eedb12bf64.ttf",
-    "index.html": "/index.html",
-    "main.c544c03f.css.map": "/static/css/main.c544c03f.css.map",
-    "main.16839d0b.js.map": "/static/js/main.16839d0b.js.map"
+    "main.css": "/BetterPortfolioSite/static/css/main.066f71ad.css",
+    "main.js": "/BetterPortfolioSite/static/js/main.6ec23a04.js",
+    "static/media/RuneScape-Chat-Bold-07.ttf": "/BetterPortfolioSite/static/media/RuneScape-Chat-Bold-07.8312160100eedb12bf64.ttf",
+    "index.html": "/BetterPortfolioSite/index.html",
+    "main.066f71ad.css.map": "/BetterPortfolioSite/static/css/main.066f71ad.css.map",
+    "main.6ec23a04.js.map": "/BetterPortfolioSite/static/js/main.6ec23a04.js.map"
   },
   "entrypoints": [
-    "static/css/main.c544c03f.css",
-    "static/js/main.16839d0b.js"
+    "static/css/main.066f71ad.css",
+    "static/js/main.6ec23a04.js"
   ]
 }
