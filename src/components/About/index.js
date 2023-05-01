@@ -35,8 +35,8 @@ export const About = () => {
           <p>
             I am an Aerospace Engineering graduate from the University of
             Manchester and a full stack Javascript developer. Recently I
-            uprooted from the UK to live in America so I am now looking for a
-            role within an established company.
+            uprooted from the UK and moved to United States, and am now looking
+            for a role within an established company.
           </p>
           <p>
             I'm a fast learner, enjoy taking on new challenges and picking up

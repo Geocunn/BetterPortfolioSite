@@ -1,22 +1,20 @@
-
-html{
+html {
   font-size: 62.5%;
 }
 
 @font-face {
   font-family: 'RuneScape';
-  src: url("./assets/fonts/RuneScape-Chat-Bold-07.ttf") format('truetype');
+  src: url('./assets/fonts/RuneScape-Chat-Bold-07.ttf') format('truetype');
 }
 
-body{
+body {
   margin: 0;
-  font:300 11px/1.4 'RuneScape';
-  color: #444;
-  text-shadow: 0.5px 0.5px rgba(0,0,0);
-  background: black;
+  font: 300 11px/1.4 'RuneScape';
+  color: #000000;
+  /* text-shadow: 0.5px 0.5px rgba(0, 0, 0); */
+  background: #ffffff;
   overflow: hidden;
   display: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
