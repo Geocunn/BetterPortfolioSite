@@ -5,13 +5,9 @@ import './index.scss'
 
 export const Home = () => {
   const [letterClass, setLetterClass] = React.useState('text-animate')
-  const nameArray = ['G', 'e', 'o', 'r', 'g', 'e']
+  const nameArray = ['G', 'e', 'o', 'r', 'g', 'e', '.']
   const jobArray = [
-    'w',
-    'e',
-    'b',
-    ' ',
-    'd',
+    'D',
     'e',
     'v',
     'e',
@@ -20,7 +16,15 @@ export const Home = () => {
     'p',
     'e',
     'r',
-    '.',
+    '/',
+    'E',
+    'n',
+    'g',
+    'i',
+    'n',
+    'e',
+    'e',
+    'r',
   ]
 
   React.useEffect(() => {
@@ -47,7 +51,7 @@ export const Home = () => {
           <AnimatedLetters
             letterClass={letterClass}
             strArray={jobArray}
-            idx={22}
+            idx={18}
           />
         </h1>
         <h2>Frontend Developer / Javascript Expert</h2>
